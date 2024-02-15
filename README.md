@@ -1,5 +1,5 @@
 # Basic blackjack game using python
-## This is a basic blackjack game in the CLI where you play against the computer
+### This is a basic blackjack game in the CLI where you play against the computer
 
 <img src="Screenshot.png"/>
 
